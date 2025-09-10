@@ -1,4 +1,5 @@
 # Mini-game
 
-# using prompt I made a mini game 
+# using javascript
+#  with prompt messege I made a mini game 
 # guess the number.
